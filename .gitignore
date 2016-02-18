@@ -45,3 +45,10 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+/TestResults
+/domain/obj
+/domain/bin
+/sample.rulestest/obj
+/sample.rulestest/bin
+/rules.framework/obj
+/rules.framework/bin
